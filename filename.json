@@ -1,0 +1,90 @@
+{
+    "students": [
+        {
+            "rfid": "STU0001",
+            "name": "Student 1",
+            "roll": "001",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0002",
+            "name": "Student 2",
+            "roll": "002",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0003",
+            "name": "Student 3",
+            "roll": "003",
+            "class": "10-B"
+        },
+        {
+            "rfid": "STU0001",
+            "name": "Student 1",
+            "roll": "001",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0002",
+            "name": "Student 2",
+            "roll": "002",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0003",
+            "name": "Student 3",
+            "roll": "003",
+            "class": "10-B"
+        },
+        {
+            "rfid": "STU0001",
+            "name": "Student 1",
+            "roll": "001",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0002",
+            "name": "Student 2",
+            "roll": "002",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0003",
+            "name": "Student 3",
+            "roll": "003",
+            "class": "10-B"
+        },
+        {
+            "rfid": "STU0001",
+            "name": "Student 1",
+            "roll": "001",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0002",
+            "name": "Student 2",
+            "roll": "002",
+            "class": "10-A"
+        },
+        {
+            "rfid": "STU0003",
+            "name": "Student 3",
+            "roll": "003",
+            "class": "10-B"
+        }
+    ],
+    "teachers": [
+        {
+            "rfid": "TCH0001",
+            "name": "Teacher 1"
+        },
+        {
+            "rfid": "TCH0002",
+            "name": "Teacher 2"
+        },
+        {
+            "rfid": "TCH0003",
+            "name": "Teacher 3"
+        }
+    ]
+}
